@@ -26,6 +26,7 @@
       .blog-post h1{
        text-align:center;
        padding:25px;
+       margin:0px;
        font-weight: 600;
        font-family: Verdana, Geneva, Tahoma,sans-serif;
        background-color:rgba(50,60,50,5%);
