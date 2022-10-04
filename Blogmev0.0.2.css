@@ -68,13 +68,13 @@ header{
 }
 
 header .logo{
-    font-size: 28px;
+    font-size: 25px;
     color:#333;
     font-weight: bolder;
 }
 
 header .logo span{
-    color:var(--pink);
+    color:#00b8e6;
 }
 
 header .navbar a{
@@ -84,7 +84,7 @@ header .navbar a{
 }
 
 header .navbar a:hover{
-    color:var(--pink);
+    color:#00b8e6;
 }
 
 header .icons a{
