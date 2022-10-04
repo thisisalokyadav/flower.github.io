@@ -139,12 +139,14 @@ header #toggler{
 }
 
 @media (max-width:768px){
-
+        header{
+        Padding:1rem;
+         }
 
         header .navbar{
         position:absolute;
         top:100%; left:0; right:0;
-        background:#e6ffff;
+        background:#f5f5f5;
         border-top: .1rem solid rgba(0,0,0,.1);
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
@@ -154,7 +156,7 @@ header #toggler{
     }
        header .fa-bars{
        display: block;
-       font-size:2rem;
+       font-size:1rem;
     }
        header #toggler:checked ~ .fa-bars{
            display:none;
@@ -164,7 +166,7 @@ header #toggler{
     }
     header #toggler:checked ~ .fa-xmark{
         display:block;
-        font-size:2rem;
+        font-size:1rem;
     }
     
     
@@ -328,7 +330,7 @@ header #toggler{
      
 /*----------image container--------*/
 .blog-post .image{
-box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+box-shadow:0 0 2px 2px rgba(204, 204,204,0.5);
 width:90%;
 margin:0px auto 0px auto ;
 padding:0;
@@ -358,7 +360,7 @@ border-radius:3px;
 width:85%;
 margin:auto;
 border-radius:2px;
-box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);         
+box-shadow:0 0 2px 2px rgba(204, 204,204,0.5);       
 }
 /*---------------------------------*/ 
      
