@@ -331,7 +331,7 @@ header #toggler{
 /*----------image container--------*/
 .blog-post .image{
 box-shadow:0 0 2px 2px rgba(204, 204,204,0.5);
-width:90%;
+width:95%;
 margin:0px auto 0px auto ;
 padding:0;
 }
@@ -341,9 +341,9 @@ padding:0;
          
 /*-----------images--------------*/                
 .blog-post .image img{
-width:90%; 
+width:94%; 
 height:100%;
-margin:2% 5% 0% 5%;
+margin:2% 3% 0% 3%;
 padding:0px; 
 border-radius:3px;
 }
@@ -357,8 +357,9 @@ border-radius:3px;
      
 /*---------videos container--------*/
 .blog-post .video {     
-width:85%;
+width:93%;
 margin:auto;
+Padding:3px;
 border-radius:2px;
 box-shadow:0 0 2px 2px rgba(204, 204,204,0.5);       
 }
