@@ -211,7 +211,7 @@ header #toggler{
 
       body{
       /* background-color: rgb(198, 244, 246);*/
-      background-color:#e6ffff;
+      background-color:#f2f2f2;
           }
      /*----------------------------------*/
     
@@ -228,11 +228,12 @@ header #toggler{
       background-color: rgb(255,255,255);
       margin:150px auto 10px auto;
       padding-bottom:100px;
-      border-radius:5px;
-      border:1px solid black;
-      box-shadow:0px 4px black;
+      border-radius:0.5rem;
+      box-shadow: 0 .5rem 0.5rem rgba(0,0,0,.1);
+      border:.1rem solid rgba(0,0,0,.1)
+      
       }
-      /*---------------------------------*/
+     /*---------------------------------*/
      
      
      
